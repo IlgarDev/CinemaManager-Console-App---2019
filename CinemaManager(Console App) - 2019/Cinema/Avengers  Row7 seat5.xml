@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<Ticket_Print xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Hall>
+    <Sites />
+    <HallTitle>Dolbi</HallTitle>
+    <Rows>10</Rows>
+    <RowsbySeats>10</RowsbySeats>
+    <Type>IMAX</Type>
+  </Hall>
+  <Film Genre="Comedy" FilmName="Avengers " yearOfIssue="2012" Producer="Ilgar" Сondition="FUTURE" />
+  <Time>2019-01-11T15:00:35.6354109+04:00</Time>
+  <Ticket>
+    <Row>7</Row>
+    <Seat>5</Seat>
+  </Ticket>
+</Ticket_Print>

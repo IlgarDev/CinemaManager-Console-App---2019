@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<Ticket_Print xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Hall>
+    <Sites />
+    <HallTitle>2</HallTitle>
+    <Rows>2</Rows>
+    <RowsbySeats>2</RowsbySeats>
+    <Type>2D</Type>
+  </Hall>
+  <Film FilmName="Film 1" yearOfIssue="0" />
+  <Time>2019-01-11T14:07:16.78904+03:00</Time>
+  <Ticket>
+    <isHover>false</isHover>
+    <isChek>false</isChek>
+    <Row>2</Row>
+    <Seat>2</Seat>
+  </Ticket>
+</Ticket_Print>
